@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "842885982971",
+    "firebase_url": "https://quiniela-5a545.firebaseio.com",
+    "project_id": "quiniela-5a545",
+    "storage_bucket": "quiniela-5a545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842885982971:android:95e9e67664fa56a8",
+        "android_client_info": {
+          "package_name": "com.inesrosales.quiniela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842885982971-cesr9vi0fqqi8k9t2bmibostdbsiber8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "842885982971-pck5ntpna3k16ahvpjhmto9h0b5e6u8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inesrosales.quiniela",
+            "certificate_hash": "c421edb63dd6722a5159503c6f06acac5191e8d8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMj7-fkJJFQMkB-nRIzir0CwaJjZtI-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842885982971-cesr9vi0fqqi8k9t2bmibostdbsiber8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842885982971-qi9piv9qfh7gbu93lbup2rbgopqjnbjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.angelrueda.quiniela"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

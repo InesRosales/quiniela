@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiniela</string>
+    <string name="login_welcome_message">¿Con que red te gustaría hacer login?</string>
+    <string name="login_logout_message">Logout</string>
+</resources>
