@@ -1,5 +1,18 @@
 <resources>
     <string name="app_name">Quiniela</string>
-    <string name="login_welcome_message">¿Con que red te gustaría hacer login?</string>
-    <string name="login_logout_message">Logout</string>
+    <string name="login_welcome_message">¿Con que red te gustaría registrarte?</string>
+    <string name="login_signout">¿Deseas salir de tu sesión?</string>
+    <string name="login_relog">¿Deseas reactivar tu sesión?</string>
+    <string name="login_button_logout">Salir</string>
+    <string name="login_error_correo_existente">El correo ya está asociado a otra red social, por favor selecciona otra red.</string>
+    <string name="facebook_application_id" translatable="false">1853509231532553</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1853509231532553</string>
+    <string name="fb_login_protocol_scheme">fb1853509231532553</string>
+    <string name="twitter_consumer_key" translatable="false">2JEN0lMMjZWowPXYp7rhzMYJP</string>
+    <string name="twitter_consumer_secret" translatable="false">1vLuJazD6Hu5rmmHrMjp14XeipU8cFC8C5PkvhsDRP29aX1DCj</string>
+    <string name="sign_in_cancelled">El login fue cancelado</string>
+    <string name="no_internet_connection">No hay conexión a Internet</string>
+    <string name="unknown_error">Error desconocido, intente de nuevo</string>
+    <string name="unknown_sign_in_response">Unknown sigin in response</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
